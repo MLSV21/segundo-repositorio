@@ -1,0 +1,16 @@
+body{
+     background-color: rgb(29, 29, 29);
+     color: white;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     line-height: 1.6;
+     margin: 0;
+     padding: 10px;
+}
+
+main{
+    max-width: 800px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
