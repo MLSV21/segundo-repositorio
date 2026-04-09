@@ -1,0 +1,18 @@
+body{
+    background-color: #0f0f0f;
+    color: #ffffff;
+}
+
+#cabecalho{
+    background-color: #585858
+}
+
+#menu ul{
+    list-style: none;
+    
+}
+
+#menu ul li{
+    display: inline-block;
+    width: 20%;
+}
